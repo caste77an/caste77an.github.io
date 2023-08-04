@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://castellan.github.io/sitemap-index.xml
-Host: https://castellan.github.io
+Sitemap: https://caste77an.github.io/sitemap-index.xml
+Host: https://caste77an.github.io

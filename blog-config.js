@@ -3,7 +3,7 @@ module.exports = {
   description:
     "Hello :) I'm castellan who develops blockchain, quant trader and full stack.",
   author: "castellan",
-  siteUrl: "https://castellan.github.io/",
+  siteUrl: "https://caste77an.github.io/",
   links: {
     github: "https://github.com/devHudi",
     linkedIn: "https://linkedin.com",
